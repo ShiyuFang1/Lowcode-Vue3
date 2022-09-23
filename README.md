@@ -51,7 +51,7 @@ Loading time: 1.50s
 
 ##### LightHouse
 
-![0aa7a19a-9a96-4510-8a11-6bedb3aa576e](D:\LowCode-main\0aa7a19a-9a96-4510-8a11-6bedb3aa576e.png)
+![0aa7a19a-9a96-4510-8a11-6bedb3aa576e](https://raw.githubusercontent.com/ShiyuFang1/Lowcode-Vue3/main/src/images/0aa7a19a-9a96-4510-8a11-6bedb3aa576e.png)
 
 
 
